@@ -7,6 +7,12 @@ h1{
     text-align: center;
 }
 
+hr{
+    height: 3px;
+    background-color: #A8A8A8;
+    border-color: #A0A0A0;
+}
+
 h2{
     text-align: center;
 }
