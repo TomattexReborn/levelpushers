@@ -5,7 +5,7 @@ body{
 
 h1{
     text-align: center;
-    color: #686D76;
+    color: #373A40;
 }
 
 hr{
@@ -16,17 +16,17 @@ hr{
 
 h2{
     text-align: center;
-    color: #686D76;
+    color: #373A40;
 }
 
 p{
     text-align: center;
     font-size: 15px;
-    color: #686D76;
+    color: #373A40;
 }
 
 a{
-    color: #373A40;	
+    color: #686D76;	
 }
 
 img{
