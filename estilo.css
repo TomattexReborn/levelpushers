@@ -45,12 +45,6 @@ table, th, td {
     border: 1px solid black;
 }
 
-table{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 th{
     width: 50%;
 }
