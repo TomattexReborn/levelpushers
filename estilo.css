@@ -40,15 +40,11 @@ img{
     margin: 10px;
 }
 
-table, th, td{
+table, th, td {
     border: 1px solid;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
-
-th{
-    font-weight: bold;
 }
 
 #izquierda{
