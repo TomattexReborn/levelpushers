@@ -45,6 +45,7 @@ table, th, td {
 
 th{
     width: 50%;
+    font-weight: bold;
 }
 
 #izquierda{
