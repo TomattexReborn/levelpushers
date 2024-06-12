@@ -3,6 +3,17 @@ body{
     background-color: #EEEEEE;
 }
 
+nav{
+    color:gray;
+    padding: 10px;
+    justify-content: center;
+}
+
+nav ul{
+    display: flex;
+}
+
+
 h1{
     text-align: center;
     color: #373A40;
