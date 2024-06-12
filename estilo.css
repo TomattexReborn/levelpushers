@@ -4,13 +4,17 @@ body{
 }
 
 nav{
-    color:gray;
+    background-color:gray;
     padding: 10px;
-    justify-content: center;
 }
 
 nav ul{
     display: flex;
+}
+
+nav li{
+    padding-right: 20px;
+    list-style: none;
 }
 
 
